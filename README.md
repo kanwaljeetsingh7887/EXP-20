@@ -1,7 +1,7 @@
 # EXP-19
 
 ## Aim:
-**To study and implement queue in C++.**
+**To study and implement sorting algorithm C++.**
 
 ## Software:
 `Microsoft VSCode`
